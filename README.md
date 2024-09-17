@@ -14,7 +14,7 @@ A minimalist, interactive terminal-like portfolio website with Linux-inspired co
 
 ## Demo
 
-Check out the live demo of the project here: [Live Demo](https://mahesh-portfolio-delta.vercel.app/)
+Check out the live demo of the project here: [Live Demo])
 
 ## How to Use
 
