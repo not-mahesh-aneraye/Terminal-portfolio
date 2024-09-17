@@ -14,7 +14,7 @@ A minimalist, interactive terminal-like portfolio website with Linux-inspired co
 
 ## Demo
 
-Check out the live demo of the project here: [Live Demo])
+Check out the live demo of the project here: [Live Demo])(https://terminal-portfolio-gamma.vercel.app/)
 
 ## How to Use
 
